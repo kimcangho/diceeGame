@@ -1,3 +1,8 @@
+//Refresh refreshPage
+function refreshPage() {
+  window.location.reload();
+}
+
 //Declare arrays
 var playerDiceArray = [];
 
