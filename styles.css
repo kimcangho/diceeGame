@@ -4,6 +4,10 @@
   text-align: center;
 }
 
+.refresh {
+  padding-bottom: 2%;
+}
+
 .dice {
   text-align: center;
   display: inline-block;
